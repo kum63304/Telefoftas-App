@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelefoftasApp", "WpfApplication\TelefoftasApp.csproj", "{09C2374B-E786-4167-9906-5C81514A9A3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelefoftasApp.Tests", "TelefoftasTestProject\TelefoftasApp.Tests.csproj", "{7588EF44-904B-4C89-B5E9-848A95548AEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09C2374B-E786-4167-9906-5C81514A9A3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09C2374B-E786-4167-9906-5C81514A9A3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09C2374B-E786-4167-9906-5C81514A9A3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09C2374B-E786-4167-9906-5C81514A9A3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7588EF44-904B-4C89-B5E9-848A95548AEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7588EF44-904B-4C89-B5E9-848A95548AEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7588EF44-904B-4C89-B5E9-848A95548AEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7588EF44-904B-4C89-B5E9-848A95548AEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
